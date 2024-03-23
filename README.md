@@ -1,0 +1,3 @@
+A basic Calculator made by using HMTL , CSS and Java Script.
+User can enter any numbers and can perform any operations like : Addition , Substraction and multiplication, etc...
+user can also delete the numbers and operations.
